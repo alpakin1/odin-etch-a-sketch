@@ -1,0 +1,13 @@
+#gridRow {
+    display: inline-block;
+    box-sizing: border-box;
+    border: 2px solid black;
+
+}
+
+#gridCol {
+}
+
+.hoveredGrids {
+    background-color: black;
+}
